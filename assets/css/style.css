@@ -1,0 +1,16 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+.all > div > img{
+    height: 400px;
+    width: 300px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+body{
+    background-color: gainsboro;
+}
